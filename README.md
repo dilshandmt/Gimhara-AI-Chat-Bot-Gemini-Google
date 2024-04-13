@@ -2,7 +2,7 @@
 
 Welcome to Gimhara ChatBot! This interactive chatbot is powered by Google's generative AI model Gemini. The chatbot allows users to communicate with the AI through text input or image uploads. It provides real-time responses based on the input provided by the user.
 
-## Features
+## 🚀 Features
 
 - **Interactive Interface:** Users can engage with the chatbot in real-time through a user-friendly interface.
 
@@ -12,7 +12,7 @@ Welcome to Gimhara ChatBot! This interactive chatbot is powered by Google's gene
 
 - **Seamless Integration:** The chatbot seamlessly integrates with Streamlit, providing a smooth user experience.
 
-## Installation
+## 💻 Installation
 
 To get started with LangChain, follow these steps:
 
@@ -38,7 +38,7 @@ or you can add that api key directly into your .env file
 
 You're all set! Start exploring Gimhara ChatBot.
 
-## Getting Started:
+## 🛠️ Getting Started
 
 To get started with Gimhara ChatBot, follow these steps:
 
@@ -47,13 +47,13 @@ To get started with Gimhara ChatBot, follow these steps:
 3. Run the Streamlit app using `streamlit run app.py`.
 4. Interact with the chatbot by entering text queries or uploading images.
 
-## Environment Variables
+## 🔑 Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
 
 `API_KEY`
 
-## Lessons Learned
+## 📚 Lessons Learned
 
 During the development of the Gemini ChatBot Streamlit app, several valuable lessons were learned and challenges were encountered:
 
@@ -69,7 +69,7 @@ During the development of the Gemini ChatBot Streamlit app, several valuable les
 
 - **Documentation and Best Practices**: Documenting the codebase, including setup instructions, usage guidelines, and code comments, was essential for facilitating collaboration and future maintenance. Adhering to best practices for code organization, readability, and error handling ensured the app's reliability and maintainability.
 
-## Contributing:
+## 🤝 Contributing
 
 We welcome contributions from the community to enhance Gimhara ChatBot. If you're interested in contributing, please follow these guidelines:
 
