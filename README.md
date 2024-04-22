@@ -1,4 +1,4 @@
-# Gimhara ChatBot | Gemini | Google AI
+# ----------Gimhara ChatBot | Gemini | Google AI
 
 Welcome to Gimhara ChatBot! This interactive chatbot is powered by Google's generative AI model Gemini. The chatbot allows users to communicate with the AI through text input or image uploads. It provides real-time responses based on the input provided by the user.
 
